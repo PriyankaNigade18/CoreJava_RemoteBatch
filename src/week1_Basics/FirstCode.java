@@ -1,5 +1,7 @@
 package week1_Basics;
 
+import week2_Basics.MethodDemo;
+
 public class FirstCode
 {
 	
@@ -12,6 +14,7 @@ public class FirstCode
 		System.out.println(a1.name);
 		//System.out.println(a1.phno);
 		
+		MethodDemo.show();
 	}
 
 }

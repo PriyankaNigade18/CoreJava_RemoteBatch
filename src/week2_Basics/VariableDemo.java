@@ -24,6 +24,8 @@ public class VariableDemo
 		v1.show();
 		System.out.println("id from main() using Objects: "+v1.id);
 		System.out.println("College name is: "+cname);
+		
+		
 
 	}
 
