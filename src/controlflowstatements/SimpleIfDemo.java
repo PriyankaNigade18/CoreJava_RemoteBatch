@@ -6,6 +6,7 @@ public class SimpleIfDemo {
 
 	public static void main(String[] args)
 	{
+		//simple if validates single true condition
 		System.out.println("Program starts.....");
 		Scanner sc=new Scanner(System.in);
 		System.out.println("Enter your age");
