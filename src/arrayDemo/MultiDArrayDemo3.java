@@ -1,6 +1,7 @@
 package arrayDemo;
 
-public class MultiDArrayDemo3 {
+public class MultiDArrayDemo3
+{
 
 	public static void main(String[] args) 
 	{
